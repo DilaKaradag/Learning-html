@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+
+<head>
+    
+    <title>Div ve Span</title>
+</head>
+<body>
+    <div style="background-color: rebeccapurple;">Bu bir div</div>
+    <span style="background-color: crimson;">Bu bir span</span>
+</body>
+</html>
